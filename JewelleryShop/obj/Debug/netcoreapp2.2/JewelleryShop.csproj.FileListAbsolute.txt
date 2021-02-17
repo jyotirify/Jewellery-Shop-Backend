@@ -1,0 +1,17 @@
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\bin\Debug\netcoreapp2.2\JewelleryShop.deps.json
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\bin\Debug\netcoreapp2.2\JewelleryShop.runtimeconfig.json
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\bin\Debug\netcoreapp2.2\JewelleryShop.runtimeconfig.dev.json
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\bin\Debug\netcoreapp2.2\JewelleryShop.dll
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\bin\Debug\netcoreapp2.2\JewelleryShop.pdb
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\obj\Debug\netcoreapp2.2\JewelleryShop.csprojAssemblyReference.cache
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\obj\Debug\netcoreapp2.2\JewelleryShop.AssemblyInfoInputs.cache
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\obj\Debug\netcoreapp2.2\JewelleryShop.AssemblyInfo.cs
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\obj\Debug\netcoreapp2.2\JewelleryShop.csproj.CoreCompileInputs.cache
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\obj\Debug\netcoreapp2.2\JewelleryShop.RazorAssemblyInfo.cache
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\obj\Debug\netcoreapp2.2\JewelleryShop.RazorAssemblyInfo.cs
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\obj\Debug\netcoreapp2.2\JewelleryShop.RazorTargetAssemblyInfo.cache
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\obj\Debug\netcoreapp2.2\JewelleryShop.dll
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\obj\Debug\netcoreapp2.2\JewelleryShop.pdb
+C:\Users\jyotirmoy.pramanik\source\repos\JewelleryShop\JewelleryShop\obj\Debug\netcoreapp2.2\JewelleryShop.genruntimeconfig.cache

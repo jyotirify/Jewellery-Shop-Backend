@@ -1,0 +1,69 @@
+{
+	"info": {
+		"_postman_id": "7eccb768-8ac5-412b-a122-681feb385074",
+		"name": "JewelleryShopCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Estimate Total Price",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"vivek@gmail.com\",\r\n    \"goldPrice\": 20.5,\r\n    \"OwnerDiscount\": 50.0,\r\n    \"weight\": 5.9\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44331/api/Shopping/Estimate",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44331",
+					"path": [
+						"api",
+						"Shopping",
+						"Estimate"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Login API",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Email\": \"vivek@gmail.com\",\r\n    \"Password\": \"vivek_anand\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44331/api/Shopping/Login",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44331",
+					"path": [
+						"api",
+						"Shopping",
+						"Login"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
